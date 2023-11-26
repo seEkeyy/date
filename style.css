@@ -45,7 +45,7 @@ button {
     outline: none;
     cursor: pointer;
     box-shadow: 0 2px 4px gray;
-    border: 2px solid #f75e89;
+    border: 2px solid #e872af;
     font-size: 1.2em;
 font-family: "Consolas", Consolas,monospace;
 
@@ -57,5 +57,5 @@ button:nth-child(1) {
 button:nth-child(2) {
     margin-right: -200px;
     background: white;
-    color: #f75e89;
+    color: #e872af;
 }
