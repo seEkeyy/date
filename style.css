@@ -13,7 +13,7 @@ font-size: 1.5em;
 margin: 15px 0;
 }
 body{
-background-color: gray;
+background-color: pink;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -45,7 +45,7 @@ button {
     outline: none;
     cursor: pointer;
     box-shadow: 0 2px 4px gray;
-    border: 2px solid #4275f5;
+    border: 2px solid #f75e89;
     font-size: 1.2em;
 font-family: "Consolas", Consolas,monospace;
 
@@ -57,5 +57,5 @@ button:nth-child(1) {
 button:nth-child(2) {
     margin-right: -200px;
     background: white;
-    color: #e94d58;
+    color: #f75e89;
 }
