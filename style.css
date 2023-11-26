@@ -52,7 +52,7 @@ font-family: "Consolas", Consolas,monospace;
 }
 button:nth-child(1) {
     margin-left: -200px;
-    background: #4275f5;
+    background: white;
 }
 button:nth-child(2) {
     margin-right: -200px;
